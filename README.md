@@ -2,4 +2,6 @@
 
 ## Requests-HTML
   ### Installation
-  >pipenv install requests-html
+  ```
+  pipenv install requests-html
+  ```
