@@ -4,7 +4,6 @@
 This library intends to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible.
 
 When using this library you automatically get:
-
     - Full JavaScript support!
     - CSS Selectors (a.k.a jQuery-style, thanks to PyQuery).
     - XPath Selectors, for the faint of heart.
