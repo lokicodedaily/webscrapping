@@ -19,4 +19,4 @@ When using this library you automatically get:
   pipenv install requests-html
   ```
 
-To know more [click here](https://requests.readthedocs.io/en/latest/)
+To know more this library and how to use it [click here](https://requests.readthedocs.io/en/latest/).
